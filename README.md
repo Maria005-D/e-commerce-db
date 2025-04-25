@@ -60,4 +60,12 @@ Design and implement a robust relational database to support:
 
 
 ---
+##  Team Collaboration
+This project was developed collaboratively as part of a group database design challenge. 
+The group members include:
+  - Mary Macharia
+  - Benoni Otieno
+  - Charles Ochieng
+  - Boniface Kathiwa
+  - Miles Maloka
 
