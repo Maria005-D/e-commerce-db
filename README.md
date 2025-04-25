@@ -68,4 +68,8 @@ The group members include:
   - Charles Ochieng
   - Boniface Kathiwa
   - Miles Maloka
+  - Khomotjo Mathabatha
+  - Jermiah Mbusya
+  - Brian Kiptoo
+  - Busami Victor
 
